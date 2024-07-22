@@ -12,7 +12,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -24,13 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+Desktop
+![](./screenshots/desktop.jpg)
+
+Mobile
+![](./screenshots/mobile.png)
 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Y-ashbhatt/four-card-feature-section-master)
+- Live Site URL: [Add live site URL here](https://y-ashbhatt.github.io/four-card-feature-section-master/)
 
 ## My process
 
